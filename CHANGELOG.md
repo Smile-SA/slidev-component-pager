@@ -1,3 +1,9 @@
+### 0.1.0 (2022-02-08)
+
+##### New Features
+
+*  init pager component ([281b2165](https://github.com/Smile-SA/slidev-component-oager/commit/281b2165aa7d346d3a406aee357c53f0e1d64ecf))
+
 #### 0.1.1 (2022-02-04)
 
 ##### Bug Fixes
