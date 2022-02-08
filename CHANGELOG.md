@@ -1,3 +1,9 @@
+#### 0.1.1 (2022-02-08)
+
+##### Bug Fixes
+
+*  line-height ([d635a497](https://github.com/Smile-SA/slidev-component-oager/commit/d635a4972de93674361919f12dcbef3eee2b14c1))
+
 ### 0.1.0 (2022-02-08)
 
 ##### New Features
