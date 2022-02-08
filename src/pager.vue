@@ -5,6 +5,7 @@
   right: 10px;
   font-size: 60%;
   padding: 5px;
+  line-height: 1.4em;
 }
 
 .pager--end {
