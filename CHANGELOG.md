@@ -1,3 +1,9 @@
+#### 0.1.2 (2022-05-06)
+
+##### Chores
+
+*  update packages ([67fa9cf2](https://github.com/Smile-SA/slidev-component-oager/commit/67fa9cf2e0e75aaf42b97682d43cc2054382eff0))
+
 #### 0.1.1 (2022-02-08)
 
 ##### Bug Fixes
