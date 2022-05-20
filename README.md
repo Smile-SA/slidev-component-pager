@@ -10,21 +10,43 @@ Pager component for `Slidev`.
 npm i slidev-component-pager
 ```
 
-## Usage
+## Configuration
 
-Create a `./setup/main.ts` file in your `Slidev` project and register the plugin:
-```js
-import { defineAppSetup } from '@slidev/types'
-import Pager from 'slidev-component-pager'
+Define this package into your slidev addons.
 
-export default defineAppSetup(({ app, router }) => {
-  app.use(Pager)
-})
+In your slides metadata (using frontmatter):
 ```
+---
+addons:
+  - slidev-component-pager
+---
+```
+
+Or in your `package.json`:
+```json
+{
+  "slidev": {
+    "addons": [
+      "slidev-component-pager"
+    ]
+  }
+}
+```
+
+## Usage
 
 Create a `./global-top.vue` file in your `Slidev` project and use the component:
 ```vue
 <template>
   <Pager/>
 </template>
+```
+
+## Components
+
+### Pager
+
+Component that displays the pager:
+```vue
+<Pager/>
 ```
