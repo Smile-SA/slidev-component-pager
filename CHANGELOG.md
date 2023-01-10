@@ -1,3 +1,9 @@
+#### 1.0.1 (2023-01-10)
+
+##### Bug Fixes
+
+*  zoom calculation ([99bae97a](https://github.com/Smile-SA/slidev-component-oager/commit/99bae97abd67b22d7278f782f9c16338f8b2c3b8))
+
 ## 1.0.0 (2022-05-20)
 
 ##### Refactors
