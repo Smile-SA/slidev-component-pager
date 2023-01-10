@@ -2,31 +2,31 @@
 
 ##### Bug Fixes
 
-*  zoom calculation ([99bae97a](https://github.com/Smile-SA/slidev-component-oager/commit/99bae97abd67b22d7278f782f9c16338f8b2c3b8))
+*  $slidev variable ([6d8b19b](https://github.com/Smile-SA/slidev-component-pager/commit/6d8b19bf9a50ab0419c27baf11d4dc2bba273653))
 
 ## 1.0.0 (2022-05-20)
 
 ##### Refactors
 
-*  switch to use the new slidev addon system ([9a1ab30e](https://github.com/Smile-SA/slidev-component-oager/commit/9a1ab30e57eaaa2dd1c956f6326194c4f2d587eb))
+*  switch to use the new slidev addon system ([9a1ab30e](https://github.com/Smile-SA/slidev-component-pager/commit/9a1ab30e57eaaa2dd1c956f6326194c4f2d587eb))
 
 #### 0.1.2 (2022-05-06)
 
 ##### Chores
 
-*  update packages ([67fa9cf2](https://github.com/Smile-SA/slidev-component-oager/commit/67fa9cf2e0e75aaf42b97682d43cc2054382eff0))
+*  update packages ([67fa9cf2](https://github.com/Smile-SA/slidev-component-pager/commit/67fa9cf2e0e75aaf42b97682d43cc2054382eff0))
 
 #### 0.1.1 (2022-02-08)
 
 ##### Bug Fixes
 
-*  line-height ([d635a497](https://github.com/Smile-SA/slidev-component-oager/commit/d635a4972de93674361919f12dcbef3eee2b14c1))
+*  line-height ([d635a497](https://github.com/Smile-SA/slidev-component-pager/commit/d635a4972de93674361919f12dcbef3eee2b14c1))
 
 ### 0.1.0 (2022-02-08)
 
 ##### New Features
 
-*  init pager component ([281b2165](https://github.com/Smile-SA/slidev-component-oager/commit/281b2165aa7d346d3a406aee357c53f0e1d64ecf))
+*  init pager component ([281b2165](https://github.com/Smile-SA/slidev-component-pager/commit/281b2165aa7d346d3a406aee357c53f0e1d64ecf))
 
 #### 0.1.1 (2022-02-04)
 
