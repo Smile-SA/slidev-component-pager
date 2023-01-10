@@ -1,3 +1,12 @@
+<script setup lang="ts">
+import type { SlidevContext } from "@slidev/client/modules/context";
+
+import { inject } from "vue";
+import { injectionSlidevContext } from "@slidev/client/constants"
+
+const $slidev = inject(injectionSlidevContext, {} as SlidevContext)
+</script>
+
 <style scoped>
 .pager {
   position: absolute;
