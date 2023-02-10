@@ -1,3 +1,10 @@
+#### 1.0.2 (2023-02-10)
+
+##### Bug Fixes
+
+*  size bug with new version of slidev ([7480f914](https://github.com/Smile-SA/slidev-component-pager/commit/7480f91460fb51794947f811d7259aa3eb683349))
+*  wrong wording ([6266a2aa](https://github.com/Smile-SA/slidev-component-pager/commit/6266a2aa38bce7a530118af6a1fb48a49fea5751))
+
 #### 1.0.1 (2023-01-10)
 
 ##### Bug Fixes
