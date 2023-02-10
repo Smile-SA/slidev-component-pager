@@ -15,6 +15,8 @@ const $slidev = inject(injectionSlidevContext, {} as SlidevContext)
   font-size: 60%;
   padding: 5px;
   line-height: 1.4em;
+  width: auto !important;
+  height: auto !important;
 }
 
 .pager--end {
