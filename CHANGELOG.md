@@ -1,3 +1,9 @@
+#### 1.0.3 (2023-04-20)
+
+##### Bug Fixes
+
+*  vite 4.3 compatibility ([b30c0ea6](https://github.com/Smile-SA/slidev-component-pager/commit/b30c0ea61629745365b9b3edc8307265b2220e90))
+
 #### 1.0.2 (2023-02-10)
 
 ##### Bug Fixes
