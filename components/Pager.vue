@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import type { SlidevContext } from "@slidev/client/modules/context";
+import type { SlidevContext } from "@slidev/client/modules/context.ts";
 
 import { inject } from "vue";
-import { injectionSlidevContext } from "@slidev/client/constants"
+import { injectionSlidevContext } from "@slidev/client/constants.ts"
 
 const $slidev = inject(injectionSlidevContext, {} as SlidevContext)
 </script>
