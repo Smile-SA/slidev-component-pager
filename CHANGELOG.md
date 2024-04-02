@@ -1,3 +1,13 @@
+### 1.1.0 (2024-04-02)
+
+##### Chores
+
+*  update license ([e608ca05](https://github.com/Smile-SA/slidev-component-pager/commit/e608ca0533a63af6ebf737693c6ac8e3cbf1db61))
+
+##### Bug Fixes
+
+*  update deps and fix slidev 0.48 compatibility ([eabcb0de](https://github.com/Smile-SA/slidev-component-pager/commit/eabcb0de93cae9e21b624f92a0aefa69021f3cc8))
+
 #### 1.0.3 (2023-04-20)
 
 ##### Bug Fixes
