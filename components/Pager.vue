@@ -1,10 +1,7 @@
 <script setup lang="ts">
-import type { SlidevContext } from "@slidev/client/modules/context.ts";
+import { useNav } from "@slidev/client"
 
-import { inject } from "vue";
-import { injectionSlidevContext } from "@slidev/client/constants.ts"
-
-const $slidev = inject(injectionSlidevContext, {} as SlidevContext)
+const { currentPage, currentLayout, total } = useNav()
 </script>
 
 <style scoped>
@@ -29,9 +26,9 @@ const $slidev = inject(injectionSlidevContext, {} as SlidevContext)
 </style>
 
 <template>
-  <div class="pager" :class="{ [`pager--${$slidev.nav.currentLayout}`]: $slidev.nav.currentLayout }">
-    <span class="pager__current">{{ $slidev.nav.currentPage }}</span>
+  <div class="pager" :class="{ [`pager--${currentLayout}`]: currentLayout }">
+    <span class="pager__current">{{ currentPage }}</span>
     <span class="pager__separator">/</span>
-    <span class="pager__total">{{ $slidev.nav.total }}</span>
+    <span class="pager__total">{{ total }}</span>
   </div>
 </template>
